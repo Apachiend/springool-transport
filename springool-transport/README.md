@@ -152,18 +152,6 @@ Back it up, then follow the comments in `database/upgrade.sql` (adds the `login_
 
 ---
 
-## 🖼️ Screenshots
-
-<!-- Add screenshots to docs/screenshots/ and uncomment:
-<div align="center">
-  <img src="docs/screenshots/home.png" alt="Home" width="380"/>
-  <img src="docs/screenshots/routes.png" alt="Schedule" width="380"/>
-  <img src="docs/screenshots/account.png" alt="Account" width="380"/>
-  <img src="docs/screenshots/admin.png" alt="Admin panel" width="380"/>
-</div>
--->
-
----
 
 ## 🗺️ Roadmap
 
